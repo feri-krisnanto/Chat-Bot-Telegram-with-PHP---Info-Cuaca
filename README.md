@@ -1,2 +1,2 @@
-# telegram-chat-bot
+# Chatbot untuk Telegram
 Wheater Chat Bot
